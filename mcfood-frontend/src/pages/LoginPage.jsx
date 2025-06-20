@@ -1,3 +1,3 @@
 export default function LoginPage() {
-  return <div><h2>Đăng nhập</h2></div>;
+  return <div><h2>Đăng nhập nè</h2></div>;
 }
