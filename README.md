@@ -28,13 +28,13 @@
 ```bash
 git clone <link-repo-của-bạn>
 
-### 2️⃣ Di chuyển vào thư mục dự án
+2️⃣ Di chuyển vào thư mục dự án
 
 ```bash
 
 cd <tên-thư-mục-dự-án>
 
-### 3️⃣ Cài đặt dependencies
+3️⃣ Cài đặt dependencies
 
 ```bash
 
@@ -45,7 +45,7 @@ Thư mục node_modules không được push lên Git. Khi clone về, bắt bu�
 
 
 
-###4️⃣ Chạy dự án ở môi trường phát triển
+4️⃣ Chạy dự án ở môi trường phát triển
 
 ```bash
 
